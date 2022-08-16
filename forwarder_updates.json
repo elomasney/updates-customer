@@ -1,0 +1,85 @@
+[{
+	"fixture_id": 62602,
+	"competition": "SerieA",
+	"update_type": "Core",
+	"selection_id": 1,
+	"probability": 0.5
+}, {
+	"fixture_id": 58246,
+	"competition": "SerieA",
+	"update_type": "PlayerProps",
+	"selection_id": 77,
+	"probability": 0.3
+}, {
+	"fixture_id": 23838,
+	"competition": "LaLiga",
+	"update_type": "Core",
+	"selection_id": 85,
+	"probability": 0.1
+}, {
+	"fixture_id": 59801,
+	"competition": "LaLiga",
+	"update_type": "Core",
+	"selection_id": 95,
+	"probability": 0.8
+}, {
+	"fixture_id": 59391,
+	"competition": "PremierLeague",
+	"update_type": "PlayerProps",
+	"selection_id": 17,
+	"probability": 0.5
+}, {
+	"fixture_id": 20448,
+	"competition": "SerieA",
+	"update_type": "Core",
+	"selection_id": 65,
+	"probability": 0.2
+}, {
+	"fixture_id": 35235,
+	"competition": "PremierLeague",
+	"update_type": "Core",
+	"selection_id": 62,
+	"probability": 0.7
+}, {
+	"fixture_id": 30553,
+	"competition": "PremierLeague",
+	"update_type": "Core",
+	"selection_id": 2,
+	"probability": 0.6
+}, {
+	"fixture_id": 50471,
+	"competition": "LaLiga",
+	"update_type": "PlayerProps",
+	"selection_id": 74,
+	"probability": 0.2
+}, {
+	"fixture_id": 33910,
+	"competition": "LaLiga",
+	"update_type": "Core",
+	"selection_id": 82,
+	"probability": 0.0
+}, {
+	"fixture_id": 58364,
+	"competition": "SerieA",
+	"update_type": "PlayerProps",
+	"selection_id": 84,
+	"probability": 0.3
+}, {
+	"fixture_id": 50831,
+	"competition": "SerieA",
+	"update_type": "Core",
+	"selection_id": 93,
+	"probability": 1.0
+}, {
+	"fixture_id": 23127,
+	"competition": "PremierLeague",
+	"update_type": "PlayerProps",
+	"selection_id": 86,
+	"probability": 0.7
+}, {
+	"fixture_id": 25296,
+	"competition": "PremierLeague",
+	"update_type": "Core",
+	"selection_id": 95,
+	"probability": 0.9
+}]
